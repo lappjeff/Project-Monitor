@@ -6,7 +6,7 @@ sites:
   - name: Norden - Client
     url: https://norden-mfg.netlify.app
   - name: Norden - API
-    url: https://norden-mfg.uk.r.appspot.com/api/hello
+    url: https://norden-mfg.uk.r.appspot.com/api
   - name: VIP - Client(Netlify)
     url: https://vippuppies.netlify.app
   - name: VIP - Client
