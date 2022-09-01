@@ -6,7 +6,7 @@ sites:
   - name: Norden - Client
     url: https://norden-mfg.netlify.app
   - name: Norden - API
-    url: https://norden-uat.uk.r.appspot.com
+    url: https://norden-uat.uk.r.appspot.com/api/hello
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
