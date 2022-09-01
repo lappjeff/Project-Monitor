@@ -13,6 +13,10 @@ sites:
     url: https://vippuppies.com
   - name: VIP - API
     url: https://vip-puppies-prod.appspot.com/api-meta
+  - name: R&R - Client
+    url: https://rre-prod.netlify.app
+  - name: Integro 212 - Client
+    url: https://www.integro212.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
