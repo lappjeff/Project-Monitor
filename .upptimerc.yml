@@ -17,6 +17,10 @@ sites:
     url: https://rre-prod.netlify.app
   - name: Integro 212 - Client
     url: https://www.integro212.com
+  - name: Chazak - API
+    url: https://chazakrescue.uk.r.appspot.com/api
+  - name: Chazak - Client
+    url: https://hr.chazakrescue.org/login
 
 status-website:
   theme: dark
