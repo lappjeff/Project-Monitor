@@ -18,7 +18,7 @@ sites:
   - name: Integro 212 - Client
     url: https://www.integro212.com
   - name: Chazak - API
-    url: https://chazakrescue.uk.r.appspot.com/api
+    url: https://chazakrescue.uk.r.appspot.com/api/hello
   - name: Chazak - Client
     url: https://hr.chazakrescue.org/login
 
